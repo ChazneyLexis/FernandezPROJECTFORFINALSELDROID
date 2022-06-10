@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/drawable/border.xml" value="0.2115" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/drawable/buttonstyle.xml" value="0.2105" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.21" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.21" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.21" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.21" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/layout/activity_add_movie.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/layout/activity_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/layout/activity_login2.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/layout/activity_update_movie.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/layout/activity_viewall.xml" value="0.203125" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/layout/add_a_movie.xml" value="0.22" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/layout/app_bar_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/layout/content_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/layout/fragment_add.xml" value="0.25" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/layout/fragment_gallery.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/layout/fragment_slideshow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/layout/fragment_update.xml" value="0.22" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/layout/movie_list.xml" value="0.3783231083844581" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/layout/nav_header_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/layout/register.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/layout/update_a_movie.xml" value="0.22" />
+        <entry key="..\:/Users/lexis/AndroidStudioProjects/FernandezPROJECTFORFINALSELDROID/app/src/main/res/menu/activity_main_drawer.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
